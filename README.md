@@ -1,4 +1,4 @@
-# [Force-Directed Graph](https://alfred-kctang.github.io/pca-crime/)
+# [Force-Directed Graph](https://alfred-kctang.github.io/d3-force-directed-graph/)
 
 This project demonstrates how a force-directed graph with various features is created using the visualization library, D3.
 
